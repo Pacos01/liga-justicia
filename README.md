@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 
 ## Estos cambios son nuevos desde mi repositorio local 
 
+## Estos cambios son nuevos desde GitHub
+ 
